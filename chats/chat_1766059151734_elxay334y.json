@@ -1,14 +1,20 @@
 {
   "id": "chat_1766059151734_elxay334y",
-  "type": "ai",
+  "type": "human",
   "user": {
     "name": "Cliente CryZen",
     "email": "",
     "ip": "201.71.41.137",
     "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
   },
-  "messages": [],
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Sua mensagem foi enviada para um atendente humano. Aguarde o contato.",
+      "time": "2025-12-18T11:59:28.589Z"
+    }
+  ],
   "timestamp": "2025-12-18T11:59:11.734Z",
-  "last_updated": "2025-12-18T11:59:20.257Z",
+  "last_updated": "2025-12-18T11:59:28.958Z",
   "company": "CryZen Studio"
 }
