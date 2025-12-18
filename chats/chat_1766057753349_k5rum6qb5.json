@@ -6,8 +6,20 @@
     "ip": "201.71.41.137"
   },
   "type": "ai",
-  "messages": [],
+  "messages": [
+    {
+      "role": "user",
+      "content": "ola ta de boa qual seu nome?",
+      "time": "2025-12-18T11:36:07.281Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Fico feliz em ajudar! Temos várias soluções para seu projeto.",
+      "time": "2025-12-18T11:36:07.281Z"
+    }
+  ],
   "timestamp": "2025-12-18T11:35:53.349Z",
   "status": "active",
+  "last_updated": "2025-12-18T11:36:08.067Z",
   "company": "CryZen Studio"
 }
