@@ -16,10 +16,20 @@
       "role": "assistant",
       "content": "Fico feliz em ajudar! Temos várias soluções para seu projeto.",
       "time": "2025-12-18T11:36:07.281Z"
+    },
+    {
+      "role": "user",
+      "content": "qual seu nome?",
+      "time": "2025-12-18T11:36:17.770Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Para isso, recomendamos entrar em contato com nossa equipe especializada.",
+      "time": "2025-12-18T11:36:17.770Z"
     }
   ],
   "timestamp": "2025-12-18T11:35:53.349Z",
   "status": "active",
-  "last_updated": "2025-12-18T11:36:08.067Z",
+  "last_updated": "2025-12-18T11:36:18.136Z",
   "company": "CryZen Studio"
 }
