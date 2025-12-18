@@ -16,10 +16,20 @@
       "role": "assistant",
       "content": "Olá! 👋 Olá! Sou o assistente da CryZen Studio. Como posso ajudar? 🚀",
       "time": "2025-12-18T11:33:58.460Z"
+    },
+    {
+      "role": "user",
+      "content": "ta suave?",
+      "time": "2025-12-18T11:34:05.676Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Entendi! Na CryZen Studio trabalhamos com...",
+      "time": "2025-12-18T11:34:05.676Z"
     }
   ],
   "timestamp": "2025-12-18T11:33:45.800Z",
   "status": "active",
-  "last_updated": "2025-12-18T11:33:59.138Z",
+  "last_updated": "2025-12-18T11:34:08.063Z",
   "company": "CryZen Studio"
 }
