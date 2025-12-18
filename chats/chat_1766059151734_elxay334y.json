@@ -1,6 +1,6 @@
 {
   "id": "chat_1766059151734_elxay334y",
-  "type": "human",
+  "type": "ai",
   "user": {
     "name": "Cliente CryZen",
     "email": "",
@@ -12,9 +12,15 @@
       "role": "assistant",
       "content": "Sua mensagem foi enviada para um atendente humano. Aguarde o contato.",
       "time": "2025-12-18T11:59:28.589Z"
+    },
+    {
+      "role": "assistant",
+      "content": "🔄 Modo alterado para **Assistente IA**. Continuarei respondendo como IA.",
+      "time": "2025-12-18T11:59:38.317Z",
+      "isSystem": true
     }
   ],
   "timestamp": "2025-12-18T11:59:11.734Z",
-  "last_updated": "2025-12-18T11:59:28.958Z",
+  "last_updated": "2025-12-18T11:59:39.274Z",
   "company": "CryZen Studio"
 }
