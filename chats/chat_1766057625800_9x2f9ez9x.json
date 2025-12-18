@@ -6,8 +6,20 @@
     "ip": "201.71.41.137"
   },
   "type": "ai",
-  "messages": [],
+  "messages": [
+    {
+      "role": "user",
+      "content": "oi",
+      "time": "2025-12-18T11:33:58.460Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá! 👋 Olá! Sou o assistente da CryZen Studio. Como posso ajudar? 🚀",
+      "time": "2025-12-18T11:33:58.460Z"
+    }
+  ],
   "timestamp": "2025-12-18T11:33:45.800Z",
   "status": "active",
+  "last_updated": "2025-12-18T11:33:59.138Z",
   "company": "CryZen Studio"
 }
